@@ -8,7 +8,7 @@ This assignment is to demostrate how Github Classroom works and how we will be u
 3. Use the aboutMe.md file to make changes. The final file should be about yourself.
 4. Create this branch structure and commits:
 
-IMG HERE
+![](https://github.com/DGM3780/Assign-0---Use-Github/blob/master/assets/Commits.png)
 
 (This is 7 commits total, including the merge commit. 4 commits on `master` and 2 on `new-feature` and one merge commit)
 
