@@ -16,5 +16,5 @@ This assignment is to demostrate how Github Classroom works and how we will be u
 6. Turn in a link to your repo in Canvas
   
   
-## Hints
+## Tips
 This is how all of our assingments will be done and turned in. Be sure to commit often while working on assinments.
