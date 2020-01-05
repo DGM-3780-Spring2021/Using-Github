@@ -17,4 +17,7 @@ This assignment is to demostrate how Github Classroom works and how we will be u
   
   
 ## Tips
-This is how all of our assingments will be done and turned in. Be sure to commit often while working on assinments.
+- This is how all of our assingments will be done and turned in. Be sure to commit often while working on assinments.
+- When using Github, be sure to clone the repo from Github using the `git clone` command.
+- If you don't already have SSH Keys set up for github, I would HIGHLY recomend setting those up. [Click here for Github Help](https://help.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+- Don't be worried about writing "dirty" code. The idea here is to have a working prototype. I am not expecting production ready code.
